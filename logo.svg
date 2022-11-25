@@ -8,7 +8,7 @@
    version="1.1"
    id="svg518"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="1.5898438"
+     inkscape:zoom="1"
      inkscape:cx="256"
      inkscape:cy="256"
      inkscape:window-width="1920"
@@ -272,10 +272,10 @@
            sodipodi:rx="4.5"
            sodipodi:ry="4.5"
            sodipodi:start="1.5707963"
-           sodipodi:end="0"
-           sodipodi:open="true"
+           sodipodi:end="0.26179939"
            sodipodi:arc-type="chord"
-           d="m 349.25,406.5 a 4.5,4.5 0 0 1 -4.15746,-2.77792 4.5,4.5 0 0 1 0.97548,-4.90406 4.5,4.5 0 0 1 4.90406,-0.97548 A 4.5,4.5 0 0 1 353.75,402 Z" />
+           d="m 349.25,406.5 a 4.5,4.5 0 0 1 -4.26119,-3.05352 4.5,4.5 0 0 1 1.52176,-5.01657 4.5,4.5 0 0 1 5.2395,-0.17152 4.5,4.5 0 0 1 1.8466,4.9063 z"
+           sodipodi:open="true" />
       </g>
     </mask>
     <mask
