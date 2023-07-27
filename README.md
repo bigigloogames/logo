@@ -1,1 +1,1 @@
-![Big Igloo Games](./logo.png)
+![Big Igloo Games](./logo.min.svg)
