@@ -177,9 +177,9 @@
        lpeversion="1.2"
        operation="union"
        swap-operands="false"
-       filltype-this="from-curve"
+       filltype-this="nonzero"
        filter=""
-       filltype-operand="from-curve" />
+       filltype-operand="nonzero" />
     <inkscape:path-effect
        effect="bool_op"
        operand-path="#path3"
@@ -413,12 +413,12 @@
     <path
        id="rect5046"
        width="20"
-       height="70"
+       height="51"
        x="305"
        y="257"
        inkscape:path-effect="#path-effect15"
        sodipodi:type="rect"
-       d="m 305,308 h 48 l -3.00977,19 H 305 v -19 h 20 v -51 h -20 z m 0,19 h 20 z" />
+       d="m 305,308 v 19 h 44.99023 L 353,308 h -28 v -51 h -20 z" />
     <path
        id="path5048"
        style="filter:url(#selectable_hidder_filter)"
